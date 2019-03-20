@@ -11,12 +11,12 @@
  Aplicacion que nos muestra la informacion referente al Dispositivo Movil
  </description>
  
- <author hret="https://build.phonegap.com" "email aritorres900@gmail.com">
+ <author href="https://build.phonegap.com" "email aritorres900@gmail.com">
  Flores torres arceli
  </author>
  
  <!--Personalizar la aplicacion y plataforma-->
- <preference name="orientacion"  value="defaul"/>
+ <preference name="orientation"  value="default"/>
 <!--<preference name="orientation"   value="portrait" />
  <preference name="orientation" value="landscape"/>-->
  <preference name="target-device"   value="universal"/>
